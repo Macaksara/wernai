@@ -1,0 +1,34 @@
+{
+  "name": "@macaksara/wernai",
+  "version": "1.0.5",
+  "description": "something useless to colorize your nodejs console...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Macaksara/wernai.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/Macaksara"
+  },
+  "keywords": [
+    "color",
+    "console",
+    "colorize-console",
+    "console-color",
+    "werna",
+    "warna",
+    "console-indicator"
+  ],
+  "author": {
+    "name": "JstnLT",
+    "email": "contact@jstnlt.my.id"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Macaksara/wernai/issues"
+  },
+  "homepage": "https://github.com/Macaksara/wernai#readme"
+}
